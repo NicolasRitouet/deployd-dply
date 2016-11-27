@@ -1,0 +1,6 @@
+{
+  "name": "deployd-dply",
+  "dependencies": {
+    "deployd": "0.8.7"
+  }
+}
