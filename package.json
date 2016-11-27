@@ -4,7 +4,7 @@
     "start": "forever start index.js"
   },
   "dependencies": {
-    "deployd": "0.8.7",
+    "deployd": "0.8.9",
     "forever": "0.15.3"
   }
 }
