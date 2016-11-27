@@ -1,0 +1,10 @@
+{
+  "name": "deployd-dply",
+  "scripts": {
+    "start": "forever start index.js"
+  },
+  "dependencies": {
+    "deployd": "0.8.7",
+    "forever": "0.15.3"
+  }
+}
